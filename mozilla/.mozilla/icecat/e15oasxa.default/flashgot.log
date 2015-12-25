@@ -1,0 +1,174 @@
+*** FlashGot 1.5.6.12 started at 2015-11-29T16:28:42.549Z ***
+2015-11-29T16:18:27.861Z Per-session init started
+2015-11-29T16:18:27.864Z Per-session init done in 3ms
+2015-11-29T16:18:28.418Z Running /bin/sh /tmp/flashgot.e15oasxa.default/flashgot.fgt -- blocking
+2015-11-29T16:18:28.444Z Native execution time 26
+2015-11-29T16:18:28.445Z Aria|KO
+Downloader 4 X (nt)|KO
+Downloader 4 X|KO
+GNOME Gwget|KO
+FlareGet|KO
+KDE KGet|KO
+wxDownload Fast|KO
+Axel|KO
+/usr/bin/curl
+cURL|OK
+FatRat|KO
+MultiGet|KO
+Prozilla|KO
+Wget|KO
+uGet|KO
+XDM|KO
+Aria 2|KO
+Steadyflow|KO
+ZigzagDownLoader|KO
+
+2015-11-29T16:18:28.445Z Warning: download manager ZigzagDownLoader not found
+2015-11-29T16:18:28.445Z Warning: download manager XDM not found
+2015-11-29T16:18:28.445Z Warning: download manager wxDownload Fast not found
+2015-11-29T16:18:28.445Z Warning: download manager Wget not found
+2015-11-29T16:18:28.445Z Warning: download manager uGet not found
+2015-11-29T16:18:28.445Z Warning: download manager TrueDownloader not found
+2015-11-29T16:18:28.445Z Warning: download manager Thunder (Old) not found
+2015-11-29T16:18:28.445Z Warning: download manager Thunder not found
+2015-11-29T16:18:28.445Z Warning: download manager Steadyflow not found
+2015-11-29T16:18:28.445Z Warning: download manager Star Downloader not found
+2015-11-29T16:18:28.446Z Warning: download manager Speed Download Lite not found
+2015-11-29T16:18:28.446Z Warning: download manager Speed Download not found
+2015-11-29T16:18:28.446Z Warning: download manager ReGet not found
+2015-11-29T16:18:28.446Z Warning: download manager Prozilla not found
+2015-11-29T16:18:28.446Z Warning: download manager Orbit not found
+2015-11-29T16:18:28.446Z Warning: download manager NetAnts not found
+2015-11-29T16:18:28.446Z Warning: download manager Net Transport 2 not found
+2015-11-29T16:18:28.446Z Warning: download manager Net Transport not found
+2015-11-29T16:18:28.446Z Warning: download manager MultiGet not found
+2015-11-29T16:18:28.446Z Warning: download manager Mass Downloader not found
+2015-11-29T16:18:28.446Z Warning: download manager LeechGet 2002 not found
+2015-11-29T16:18:28.446Z Warning: download manager LeechGet not found
+2015-11-29T16:18:28.446Z Warning: download manager Leech not found
+2015-11-29T16:18:28.446Z Warning: download manager KDE KGet not found
+2015-11-29T16:18:28.446Z Warning: download manager JDownloader not found
+2015-11-29T16:18:28.446Z Warning: download manager Internet Download Manager not found
+2015-11-29T16:18:28.446Z Warning: download manager Internet Download Accelerator not found
+2015-11-29T16:18:28.446Z Warning: download manager InstantGet not found
+2015-11-29T16:18:28.446Z Warning: download manager iGetter Win not found
+2015-11-29T16:18:28.446Z Warning: download manager iGetter not found
+2015-11-29T16:18:28.446Z Warning: download manager HiDownload not found
+2015-11-29T16:18:28.446Z Warning: download manager GNOME Gwget not found
+2015-11-29T16:18:28.446Z Warning: download manager GigaGet not found
+2015-11-29T16:18:28.446Z Warning: download manager GetRight not found
+2015-11-29T16:18:28.446Z Warning: download manager FreshDownload not found
+2015-11-29T16:18:28.446Z Warning: download manager Free Download Manager not found
+2015-11-29T16:18:28.446Z Warning: download manager Folx 2 not found
+2015-11-29T16:18:28.446Z Warning: download manager Folx not found
+2015-11-29T16:18:28.446Z Warning: download manager FlashGet 2.x not found
+2015-11-29T16:18:28.446Z Warning: download manager FlashGet 2 not found
+2015-11-29T16:18:28.446Z Warning: download manager FlashGet not found
+2015-11-29T16:18:28.446Z Warning: download manager FlareGet not found
+2015-11-29T16:18:28.446Z Warning: download manager FatRat not found
+2015-11-29T16:18:28.447Z Warning: download manager DTA (Turbo) not found
+2015-11-29T16:18:28.447Z Warning: download manager DTA not found
+2015-11-29T16:18:28.447Z Warning: download manager Downloader 4 X (nt) not found
+2015-11-29T16:18:28.447Z Warning: download manager Downloader 4 X not found
+2015-11-29T16:18:28.447Z Warning: download manager Download Master not found
+2015-11-29T16:18:28.447Z Warning: download manager Download Accelerator Plus not found
+2015-11-29T16:18:28.447Z Warning: download manager BitComet not found
+2015-11-29T16:18:28.447Z Warning: download manager Axel not found
+2015-11-29T16:18:28.447Z Warning: download manager Aria 2 not found
+2015-11-29T16:18:28.447Z Warning: download manager Aria not found
+2015-11-29T16:18:28.447Z Default download manager set to cURL
+2015-11-29T16:18:28.447Z Download managers detection done in 32ms
+2015-11-29T16:18:28.472Z JDownloader response:
+0
+
+2015-11-29T16:28:42.548Z Starting cleanup
+2015-11-29T16:28:42.548Z Cleanup done
+*** FlashGot 1.5.6.12 started at 2015-11-29T16:33:56.868Z ***
+2015-11-29T16:28:44.831Z Per-session init started
+2015-11-29T16:28:44.833Z Per-session init done in 2ms
+2015-11-29T16:28:48.842Z Running /bin/sh /tmp/flashgot.e15oasxa.default/flashgot.fgt -- blocking
+2015-11-29T16:28:48.863Z Native execution time 21
+2015-11-29T16:28:48.864Z Aria|KO
+Downloader 4 X (nt)|KO
+Downloader 4 X|KO
+GNOME Gwget|KO
+FlareGet|KO
+KDE KGet|KO
+wxDownload Fast|KO
+Axel|KO
+/usr/bin/curl
+cURL|OK
+FatRat|KO
+MultiGet|KO
+Prozilla|KO
+Wget|KO
+uGet|KO
+XDM|KO
+/usr/bin/aria2c
+Aria 2|OK
+Steadyflow|KO
+ZigzagDownLoader|KO
+
+2015-11-29T16:28:48.864Z Warning: download manager ZigzagDownLoader not found
+2015-11-29T16:28:48.864Z Warning: download manager XDM not found
+2015-11-29T16:28:48.864Z Warning: download manager wxDownload Fast not found
+2015-11-29T16:28:48.864Z Warning: download manager Wget not found
+2015-11-29T16:28:48.864Z Warning: download manager uGet not found
+2015-11-29T16:28:48.864Z Warning: download manager TrueDownloader not found
+2015-11-29T16:28:48.864Z Warning: download manager Thunder (Old) not found
+2015-11-29T16:28:48.864Z Warning: download manager Thunder not found
+2015-11-29T16:28:48.864Z Warning: download manager Steadyflow not found
+2015-11-29T16:28:48.864Z Warning: download manager Star Downloader not found
+2015-11-29T16:28:48.864Z Warning: download manager Speed Download Lite not found
+2015-11-29T16:28:48.864Z Warning: download manager Speed Download not found
+2015-11-29T16:28:48.864Z Warning: download manager ReGet not found
+2015-11-29T16:28:48.864Z Warning: download manager Prozilla not found
+2015-11-29T16:28:48.864Z Warning: download manager Orbit not found
+2015-11-29T16:28:48.864Z Warning: download manager NetAnts not found
+2015-11-29T16:28:48.864Z Warning: download manager Net Transport 2 not found
+2015-11-29T16:28:48.864Z Warning: download manager Net Transport not found
+2015-11-29T16:28:48.864Z Warning: download manager MultiGet not found
+2015-11-29T16:28:48.864Z Warning: download manager Mass Downloader not found
+2015-11-29T16:28:48.864Z Warning: download manager LeechGet 2002 not found
+2015-11-29T16:28:48.864Z Warning: download manager LeechGet not found
+2015-11-29T16:28:48.864Z Warning: download manager Leech not found
+2015-11-29T16:28:48.864Z Warning: download manager KDE KGet not found
+2015-11-29T16:28:48.865Z Warning: download manager JDownloader not found
+2015-11-29T16:28:48.865Z Warning: download manager Internet Download Manager not found
+2015-11-29T16:28:48.865Z Warning: download manager Internet Download Accelerator not found
+2015-11-29T16:28:48.865Z Warning: download manager InstantGet not found
+2015-11-29T16:28:48.865Z Warning: download manager iGetter Win not found
+2015-11-29T16:28:48.865Z Warning: download manager iGetter not found
+2015-11-29T16:28:48.865Z Warning: download manager HiDownload not found
+2015-11-29T16:28:48.865Z Warning: download manager GNOME Gwget not found
+2015-11-29T16:28:48.865Z Warning: download manager GigaGet not found
+2015-11-29T16:28:48.865Z Warning: download manager GetRight not found
+2015-11-29T16:28:48.865Z Warning: download manager FreshDownload not found
+2015-11-29T16:28:48.865Z Warning: download manager Free Download Manager not found
+2015-11-29T16:28:48.865Z Warning: download manager Folx 2 not found
+2015-11-29T16:28:48.865Z Warning: download manager Folx not found
+2015-11-29T16:28:48.865Z Warning: download manager FlashGet 2.x not found
+2015-11-29T16:28:48.865Z Warning: download manager FlashGet 2 not found
+2015-11-29T16:28:48.865Z Warning: download manager FlashGet not found
+2015-11-29T16:28:48.865Z Warning: download manager FlareGet not found
+2015-11-29T16:28:48.865Z Warning: download manager FatRat not found
+2015-11-29T16:28:48.865Z Warning: download manager DTA (Turbo) not found
+2015-11-29T16:28:48.865Z Warning: download manager DTA not found
+2015-11-29T16:28:48.865Z Warning: download manager Downloader 4 X (nt) not found
+2015-11-29T16:28:48.865Z Warning: download manager Downloader 4 X not found
+2015-11-29T16:28:48.865Z Warning: download manager Download Master not found
+2015-11-29T16:28:48.865Z Warning: download manager Download Accelerator Plus not found
+2015-11-29T16:28:48.865Z Warning: download manager BitComet not found
+2015-11-29T16:28:48.865Z Warning: download manager Axel not found
+2015-11-29T16:28:48.865Z Warning: download manager Aria not found
+2015-11-29T16:28:48.865Z Download managers detection done in 27ms
+2015-11-29T16:28:48.896Z JDownloader response:
+0
+
+2015-11-29T16:33:56.868Z Starting cleanup
+2015-11-29T16:33:56.868Z Cleanup done
+*** FlashGot 1.5.6.12 started at 2015-11-29T17:44:34.552Z ***
+2015-11-29T17:43:37.678Z Per-session init started
+2015-11-29T17:43:37.679Z Per-session init done in 1ms
+2015-11-29T17:44:34.551Z Starting cleanup
+2015-11-29T17:44:34.551Z Cleanup done

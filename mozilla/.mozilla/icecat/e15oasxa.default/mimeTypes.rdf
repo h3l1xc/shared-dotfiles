@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="urn:mimetype:text/plain"
+                   NC:value="text/plain"
+                   NC:editable="true"
+                   NC:description="SVG image">
+    <NC:fileExtensions>asc</NC:fileExtensions>
+    <NC:fileExtensions>brf</NC:fileExtensions>
+    <NC:fileExtensions>conf</NC:fileExtensions>
+    <NC:fileExtensions>def</NC:fileExtensions>
+    <NC:fileExtensions>diff</NC:fileExtensions>
+    <NC:fileExtensions>in</NC:fileExtensions>
+    <NC:fileExtensions>list</NC:fileExtensions>
+    <NC:fileExtensions>log</NC:fileExtensions>
+    <NC:fileExtensions>pot</NC:fileExtensions>
+    <NC:fileExtensions>srt</NC:fileExtensions>
+    <NC:fileExtensions>text</NC:fileExtensions>
+    <NC:fileExtensions>txt</NC:fileExtensions>
+    <NC:handlerProp RDF:resource="urn:mimetype:handler:text/plain"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="urn:mimetype:handler:text/plain"
+                   NC:alwaysAsk="true"
+                   NC:saveToDisk="true">
+    <NC:externalApplication RDF:resource="urn:mimetype:externalApplication:text/plain"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="urn:mimetypes:root">
+    <RDF:li RDF:resource="urn:mimetype:application/pdf"/>
+    <RDF:li RDF:resource="urn:mimetype:text/plain"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:mimetype:handler:application/pdf"
+                   NC:useSystemDefault="true"
+                   NC:alwaysAsk="false" />
+  <RDF:Description RDF:about="urn:scheme:ircs"
+                   NC:value="ircs">
+    <NC:handlerProp RDF:resource="urn:scheme:handler:ircs"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="urn:mimetype:application/pdf"
+                   NC:value="application/pdf">
+    <NC:handlerProp RDF:resource="urn:mimetype:handler:application/pdf"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="urn:schemes:root">
+    <RDF:li RDF:resource="urn:scheme:ircs"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:mimetypes">
+    <NC:MIME-types RDF:resource="urn:mimetypes:root"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="urn:root"
+                   NC:en-US_defaultHandlersVersion="4" />
+  <RDF:Description RDF:about="urn:schemes">
+    <NC:Protocol-Schemes RDF:resource="urn:schemes:root"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="urn:scheme:handler:ircs"
+                   NC:alwaysAsk="true">
+    <NC:possibleApplication RDF:resource="urn:handler:web:https://webchat.freenode.net"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="urn:handler:web:https://webchat.freenode.net"
+                   NC:prettyName="Freenode Web IRC"
+                   NC:uriTemplate="https://webchat.freenode.net" />
+</RDF:RDF>

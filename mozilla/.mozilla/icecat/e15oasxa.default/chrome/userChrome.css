@@ -1,0 +1,12 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* only needed once */
+
+.statuspanel-label {background:#FF9!important;color:black!important;font-family:"DejaVu Sans Mono"}
+
+statuspanel {display:none!important}
+statuspanel {max-width:90%!important}
+
+statuspanel[type="overLink"] .statuspanel-label
+statuspanel[type="status"] .statuspanel-label[value^="Looking"]
+statuspanel[type="status"] .statuspanel-label[value^="Connect"]
+statuspanel[type="status"] .statuspanel-label[value^="Waiting"]
+statuspanel[type="status"] .statuspanel-label[value^="Transfer"]

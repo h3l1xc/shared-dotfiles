@@ -1,0 +1,25 @@
+[Default Applications]
+x-scheme-handler/http=userapp-IceCat-ZOQL8X.desktop
+x-scheme-handler/https=userapp-IceCat-ZOQL8X.desktop
+x-scheme-handler/ftp=userapp-IceCat-ZOQL8X.desktop
+x-scheme-handler/chrome=userapp-IceCat-ZOQL8X.desktop
+text/html=userapp-IceCat-ZOQL8X.desktop
+application/x-extension-htm=userapp-IceCat-ZOQL8X.desktop
+application/x-extension-html=userapp-IceCat-ZOQL8X.desktop
+application/x-extension-shtml=userapp-IceCat-ZOQL8X.desktop
+application/xhtml+xml=userapp-IceCat-ZOQL8X.desktop
+application/x-extension-xhtml=userapp-IceCat-ZOQL8X.desktop
+application/x-extension-xht=userapp-IceCat-ZOQL8X.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-IceCat-ZOQL8X.desktop;
+x-scheme-handler/https=userapp-IceCat-ZOQL8X.desktop;
+x-scheme-handler/ftp=userapp-IceCat-ZOQL8X.desktop;
+x-scheme-handler/chrome=userapp-IceCat-ZOQL8X.desktop;
+text/html=userapp-IceCat-ZOQL8X.desktop;
+application/x-extension-htm=userapp-IceCat-ZOQL8X.desktop;
+application/x-extension-html=userapp-IceCat-ZOQL8X.desktop;
+application/x-extension-shtml=userapp-IceCat-ZOQL8X.desktop;
+application/xhtml+xml=userapp-IceCat-ZOQL8X.desktop;
+application/x-extension-xhtml=userapp-IceCat-ZOQL8X.desktop;
+application/x-extension-xht=userapp-IceCat-ZOQL8X.desktop;

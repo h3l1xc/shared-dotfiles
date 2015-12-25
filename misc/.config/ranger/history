@@ -1,0 +1,21 @@
+open_with
+open_with ffplay
+open_with r
+open_with less
+!%
+! bash %
+!%f
+cd ~
+
+cut
+paste
+open_with 
+cd .local
+cd  share
+cd  fonts
+cd ~/.minecraft
+cd  saves
+copy
+delete
+cd .minecraft
+cd screenshots/

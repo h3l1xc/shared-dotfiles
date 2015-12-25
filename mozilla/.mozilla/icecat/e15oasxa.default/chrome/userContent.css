@@ -1,0 +1,5 @@
+@-moz-document domain(duckduckgo.com) {
+	.header--aside {
+		margin: 18px 18px auto auto !important;
+	}
+}
