@@ -1,0 +1,36 @@
+! Base16 Monokai
+! Scheme: Wimer Hazenberg (http://www.monokai.nl)
+
+*.foreground:	#d0d0d0
+*.background:	#101010
+*.cursorColor:	#d0d0d0
+
+*.color0:	#101010
+*.color1:	#960050
+*.color2:	#66aa11
+*.color3:	#c47f2c
+*.color4:	#30309b
+*.color5:	#7e40a5
+*.color6:	#3579a8
+*.color7:	#9999aa
+
+*.color8:	#303030
+*.color9:	#ff0090
+*.color10:	#80ff00
+*.color11:	#ffba68
+*.color12:	#5f5fee
+*.color13:	#bb88dd
+*.color14:	#4eb4fa
+*.color15:	#d0d0d0
+
+Xcursor*theme: Vanilla-DMZ-AA
+
+URxvt*buffered: true
+URxvt*geometry: 90x28
+URxvt*cursorBlink: true
+URxvt*font: xft:Inconsolata:size=11,xft:Inconsolata\ for\ Powerline:size=11
+URxvt*saveLines: 50000
+URxvt*scrollBar: false
+URxvt*internalBorder: 16
+!URxvt*internalBorder: 0
+!URxvt.letterSpace: -1
